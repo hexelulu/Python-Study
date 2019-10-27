@@ -1,0 +1,6 @@
+num=range(1,101)
+
+for i in num:
+    if i%2==1:
+        print(i)
+
